@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is used to preserve a carousel which I developed while bulding my online portfolio. Since the original repository will be changed alot, I want to keep this state to build something else later.
+This project is used to preserve a carousel which I developed while bulding my online portfolio. Since the original repository will be changed alot, I want to keep this state to build something else later on.
 Since I also want to keep the live demo for this verison running, I had to create a new repository.
 
 ## Features
