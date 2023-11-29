@@ -9,6 +9,7 @@ Since I also want to keep the live demo for this verison running, I had to creat
 
 - **Three.js:** Displays the slides in a carousel that rotates and snaps to the slides.
 - **Tween.js:** Smooth animations for different use cases.
+- **State Management:** Keeps track of which slide the user is currently viewing.
 
 ## Usage
 
