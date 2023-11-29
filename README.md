@@ -1,10 +1,9 @@
-# tobiasweinert.github.io
+# threejs-carousel
 
 ## Description
 
-This website serves as an extension of my curriculum vitae (CV), providing an interactive and dynamic representation of me and my educational journey. It's designed to showcase my skills and experiences in a visually appealing and user-friendly manner. Also, I've always wanted to try out Three.js so this was the perfect opportunity to do so.
-
-Since this project is also used as a playground to test things out the code quality is terrible and things are expected to break 😌
+This project is used to preserve a carousel which I developed while bulding my online portfolio. Since the original repository will be changed alot, I want to keep this state to build something else later.
+Since I also want to keep the live demo for this verison running, I had to create a new repository.
 
 ## Features
 
@@ -21,4 +20,4 @@ To rotate the carousel and change the visible slide the user can pick one of thr
 
 ## Demo
 
-Check out the live demo [here](https://tobiasweinert.github.io/).
+Check out the live demo [here](https://tobiasweinert.github.io/threejs-carousel/).
