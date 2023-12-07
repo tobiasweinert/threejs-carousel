@@ -31,7 +31,7 @@
     {
       "id": "contact",
       "title": "Contact",
-      "text": "This is a sample text"
+      "texts": ["This is a sample text"]
     }
   ],
   "header": {

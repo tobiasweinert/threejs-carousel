@@ -2,10 +2,9 @@ import { FontLoader } from "three/examples/jsm/loaders/FontLoader.js";
 const fontLoader = new FontLoader();
 
 async function fetchText() {
-  const text = await fetch("../assets/en.texts.json");
-  const textData = await text.json();
-  console.log(textData);
-  return textData;
+  const timestamp = new Date().getTime();
+  const text = await fetch(`../assets/en.texts.json?_=${timestamp}`);
+  return text.json();
 }
 
 function getContainerRect() {
