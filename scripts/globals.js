@@ -3,7 +3,8 @@ const fontLoader = new FontLoader();
 
 async function fetchText() {
   const text = await fetch("../assets/en.texts.json");
-  return text.json();
+  const textData = await text.json();
+  return textData;
 }
 
 function getContainerRect() {
