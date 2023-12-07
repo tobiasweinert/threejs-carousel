@@ -13,9 +13,7 @@
     {
       "id": "about",
       "title": "About myself",
-      "texts": [
-        "This is a longer text to check how it \nwould look on the slide.\nI think i need to adjust the position of this specific text because its too far to the left."
-      ],
+      "texts": ["Sample text."],
       "images": [
         {
           "title": "That's me!",
@@ -27,7 +25,7 @@
       "id": "welcome",
       "title": "Welcome!",
       "texts": [
-        "You have found my online portfolio.\n I am a student and developer from Germany. Currently,\nI am studying computer science at the University \nof Applied Sciences in Offenburg while working as a \nfull stack web-developer.\n\nThis website serves as a interactive resume\nand a place for me to experiment with 3D-animations. \n\nFeel free to take a look around!"
+        "A carousel implemented with threejs and tween.\n Use the arrow keys, scroll wheel or drag & drop \n to navigate the rotation. \n\nFeel free to take a look around!"
       ]
     },
     {
