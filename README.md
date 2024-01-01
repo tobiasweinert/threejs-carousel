@@ -4,6 +4,7 @@
 
 This project is used to preserve a carousel which I developed while bulding my online portfolio. Since the original repository will be changed alot, I want to keep this state to build something else later on.
 Since I also want to keep the live demo for this verison running, I had to create a new repository.
+Warning: slow loading times because of GitHub pages and unpkg cdn.
 
 ## Features
 
@@ -17,7 +18,7 @@ To rotate the carousel and change the visible slide the user can pick one of thr
 
 - Drag, rotate and drop the carousel with the mouse
 - Use the arrow keys (left/right)
-- Use the scroll wheel (up/down)
+- Use the scroll wheel
 
 ## Demo
 
