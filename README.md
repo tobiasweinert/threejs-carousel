@@ -18,7 +18,7 @@ To rotate the carousel and change the visible slide the user can pick one of thr
 
 - Drag, rotate and drop the carousel with the mouse
 - Use the arrow keys (left/right)
-- Use the scroll wheel (up/down)
+- Use the scroll wheel
 
 ## Demo
 
