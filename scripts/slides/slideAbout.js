@@ -24,7 +24,7 @@ export async function initSlideAbout(slide) {
   });
   // calculate the aspect ratio for a fixed height of 5
   const aspectRatio = profileImage.width / profileImage.height;
-  const imgHeight = 5;
+  const imgHeight = 3;
   const imgWidth = imgHeight * aspectRatio;
   const meImage = new THREE.Mesh(
     new THREE.PlaneGeometry(imgWidth, imgHeight, 12, 12),
@@ -55,7 +55,7 @@ export async function initSlideAbout(slide) {
     curveSegments: 12,
   });
   const titleMesh = new THREE.Mesh(titleGeometry, titleMaterial);
-  titleMesh.position.set(-6, -3.2, 3.15);
+  titleMesh.position.set(-6, -2.1, 3.15);
   titleMesh.rotation.y = Math.PI / 20;
   // group the image, frame and title
   imageGroup = new THREE.Group();

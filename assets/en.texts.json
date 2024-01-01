@@ -1,36 +1,36 @@
 {
   "planes": [
     {
-      "id": "projects",
-      "title": "Projects",
+      "id": "3",
+      "title": "Three",
       "text": ["This is a sample text"]
     },
     {
-      "id": "education",
-      "title": "Education",
+      "id": "2",
+      "title": "Two",
       "texts": ["This is a sample text"]
     },
     {
-      "id": "about",
-      "title": "About myself",
-      "texts": ["Sample text."],
+      "id": "1",
+      "title": "One",
+      "texts": ["This is a sample text"],
       "images": [
         {
-          "title": "That's me!",
-          "src": "./assets/images/me_cropped2_white.jpg"
+          "title": "Sample image",
+          "src": "./assets/images/placeholder-image.jpg"
         }
       ]
     },
     {
-      "id": "welcome",
+      "id": "0",
       "title": "Welcome!",
       "texts": [
         "A carousel implemented with threejs and tween.\n Use the arrow keys, scroll wheel or drag & drop \n to navigate the rotation. \n\nFeel free to take a look around!"
       ]
     },
     {
-      "id": "contact",
-      "title": "Contact",
+      "id": "4",
+      "title": "Four",
       "texts": ["This is a sample text"]
     }
   ],

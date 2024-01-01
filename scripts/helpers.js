@@ -27,10 +27,10 @@ for (let i = 0; i < 5; i++) {
 
 const slideNamesMap = {
   0: "Welcome",
-  1: "About Myself",
-  2: "Education",
-  3: "Projects",
-  4: "Contact",
+  1: "One",
+  2: "Two",
+  3: "Three",
+  4: "Four",
 };
 
 export function getCenterXForText(textGeometry) {

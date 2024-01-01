@@ -60,17 +60,17 @@ export function initCarousel() {
 
     // custom properties
     switch (globals.texts.planes[i].id) {
-      case "welcome":
+      case "0":
         initSlideWelcome(globals.slides[i]);
         break;
-      case "about":
+      case "1":
         initSlideAbout();
         break;
-      case "education":
+      case "2":
         break;
-      case "projects":
+      case "3":
         break;
-      case "contact":
+      case "4":
         break;
     }
     globals.carousel.add(globals.slides[i]);

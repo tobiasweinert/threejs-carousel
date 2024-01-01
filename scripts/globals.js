@@ -2,9 +2,7 @@ import { FontLoader } from "three/examples/jsm/loaders/FontLoader.js";
 const fontLoader = new FontLoader();
 
 async function fetchText() {
-  const text = await fetch(
-    `https://tobiasweinert.github.io/threejs-carousel//assets/en.texts.json`
-  );
+  const text = await fetch("../assets/en.texts.json");
   return text.json();
 }
 
